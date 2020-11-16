@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-14T16:56:52.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="xP8EqG2O_wj0yRvubFZ_" version="13.9.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2020-11-16T07:41:42.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="vWtyNgCIrVKM3H62Kejv" version="13.9.8" type="github" pages="16">
   <diagram id="gYOcqxLyRTDLa7rOP2EJ" name="恋愛マッチングER図">
-    <mxGraphModel dx="1064" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1516" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pWbOHfvtBRwt8tjRahgb-0" />
         <mxCell id="pWbOHfvtBRwt8tjRahgb-1" parent="pWbOHfvtBRwt8tjRahgb-0" />
@@ -487,71 +487,71 @@
         <mxCell id="H9XXSEn6zy-MSZnIaLHh-56" value="どんな経験をもとに現在の自分であるのか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="90" y="1540" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-0" value="生きること" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-0" value="生きること" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="610" y="1370" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-1" value="どう生きたいか、自己実現したこと" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-1" value="どう生きたいか、自己実現したこと" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="660" y="1450" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-2" value="最低限のお金" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-2" value="最低限のお金" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="730" y="1370" width="103" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-3" value="可能であるならば、労働は何時間までが良いか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-3" value="可能であるならば、労働は何時間までが良いか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="730" y="1410" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-4" value="働くことに関してどう考えているか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-4" value="働くことに関してどう考えているか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="470" y="1410" width="245" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-5" value="感情を感じさせる？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-5" value="感情を感じさせる？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="790" y="1250" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-6" value="お金欲しい" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-6" value="お金欲しい" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="510" y="1540" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-7" value="無理したくない" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-7" value="無理したくない" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="656.5" y="1540" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-9" value="パワハラのはざま" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-9" value="パワハラのはざま" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="335" y="1600" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-10" value="戦いたくないから" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-10" value="戦いたくないから" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="790" y="1540" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-11" value="バトルの勝った先見合うものがあるか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-11" value="バトルの勝った先見合うものがあるか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="335" y="1570" width="235" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-13" value="実績として何ができるか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-13" value="実績として何ができるか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="700" y="970" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-14" value="実績、売り上げ" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-14" value="実績、売り上げ" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="500" y="1050" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-15" value="感情的、哲学的" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-15" value="感情的、哲学的" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="640" y="1050" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-19" value="何を求めているのか" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-19" value="何を求めているのか" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="90" y="1650" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-20" value="働くことに関してどう考えているか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-20" value="働くことに関してどう考えているか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="90" y="1150" width="245" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-21" value="可能であるならば、労働は何時間までが良いか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-21" value="可能であるならば、労働は何時間までが良いか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="90" y="1180" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-22" value="仕事に関してのお金はどこまで人を育てたいか、犠牲にしたいか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-22" value="仕事に関してのお金はどこまで人を育てたいか、犠牲にしたいか？" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="90" y="1210" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-23" value="自分は何を提供できるか？（性格）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-23" value="自分は何を提供できるか？（性格）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="90" y="1430" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ho2f7OswDN8wN37IBu1o-24" value="何をされると心を動かされるのか（お金以外）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="pWbOHfvtBRwt8tjRahgb-1">
+        <mxCell id="ho2f7OswDN8wN37IBu1o-24" value="何をされると心を動かされるのか（お金以外）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="pWbOHfvtBRwt8tjRahgb-1" vertex="1">
           <mxGeometry x="90" y="1620" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="カラムの詳細" id="FodUi-OQmof07GcYxiwW">
-    <mxGraphModel dx="906" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1516" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ryH4xJipQ9elpwYcsFLE-0" />
         <mxCell id="ryH4xJipQ9elpwYcsFLE-1" parent="ryH4xJipQ9elpwYcsFLE-0" />
@@ -796,7 +796,7 @@
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ryH4xJipQ9elpwYcsFLE-78" value="（ダイレクトメッセージ）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="ryH4xJipQ9elpwYcsFLE-1" vertex="1">
-          <mxGeometry x="414" y="770" width="270" height="230" as="geometry" />
+          <mxGeometry x="630" y="800" width="270" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ryH4xJipQ9elpwYcsFLE-79" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ryH4xJipQ9elpwYcsFLE-78" vertex="1">
           <mxGeometry y="30" width="270" height="30" as="geometry" />
@@ -883,16 +883,16 @@
           <mxGeometry x="100" y="700" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ryH4xJipQ9elpwYcsFLE-108" value="message_id(メッセージ)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="ryH4xJipQ9elpwYcsFLE-1" vertex="1">
-          <mxGeometry x="439" y="900" width="220" height="30" as="geometry" />
+          <mxGeometry x="659" y="930" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ryH4xJipQ9elpwYcsFLE-109" value="created_at (更新日)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="ryH4xJipQ9elpwYcsFLE-1" vertex="1">
           <mxGeometry x="100" y="730" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ryH4xJipQ9elpwYcsFLE-110" value="created_at(登録日)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="ryH4xJipQ9elpwYcsFLE-1" vertex="1">
-          <mxGeometry x="440" y="930" width="220" height="30" as="geometry" />
+          <mxGeometry x="660" y="960" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ryH4xJipQ9elpwYcsFLE-111" value="update_at (更新日)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="ryH4xJipQ9elpwYcsFLE-1" vertex="1">
-          <mxGeometry x="439" y="960" width="220" height="30" as="geometry" />
+          <mxGeometry x="659" y="990" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7bcolFNAM_K1fXXCFW0R-0" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ryH4xJipQ9elpwYcsFLE-1" vertex="1">
           <mxGeometry x="390" y="160" width="250" height="30" as="geometry" />
@@ -939,11 +939,110 @@
         <mxCell id="7bcolFNAM_K1fXXCFW0R-14" value="did_action(何をしたか)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="7bcolFNAM_K1fXXCFW0R-12" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-0" value="（会員）" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="25" y="830" width="485" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-1" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Or4HT7EVB8tR8-bXrAOf-0">
+          <mxGeometry y="30" width="485" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-2" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="Or4HT7EVB8tR8-bXrAOf-1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-3" value="会員ID customers" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="Or4HT7EVB8tR8-bXrAOf-1">
+          <mxGeometry x="30" width="455" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-4" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Or4HT7EVB8tR8-bXrAOf-0">
+          <mxGeometry y="60" width="485" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-5" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="Or4HT7EVB8tR8-bXrAOf-4">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-6" value="last_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Or4HT7EVB8tR8-bXrAOf-4">
+          <mxGeometry x="30" width="455" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-7" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Or4HT7EVB8tR8-bXrAOf-0">
+          <mxGeometry y="90" width="485" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-8" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="Or4HT7EVB8tR8-bXrAOf-7">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-9" value="first_name" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Or4HT7EVB8tR8-bXrAOf-7">
+          <mxGeometry x="30" width="455" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-10" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Or4HT7EVB8tR8-bXrAOf-0">
+          <mxGeometry y="120" width="485" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-11" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="Or4HT7EVB8tR8-bXrAOf-10">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-12" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="Or4HT7EVB8tR8-bXrAOf-10">
+          <mxGeometry x="30" width="455" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-13" value="what_do（なんのためにアプリを使っているか、どんな人を求めているか）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="950" width="445" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-14" value="think_to_job （働くことに関してどう考えているか？）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1070" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-15" value="occupation （職業）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1040" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-16" value="message_level (メッセージを交換しても良いと思える最低レベル)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="980" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-17" value="ignore_character (無視したい人の特徴)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1010" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-18" value="what_want_learn（何を学びたいか？）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1220" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-19" value="request_relationship_spirit (求めている人間関係と精神状態の関係)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1490" width="455" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-20" value="what_desire_love (恋愛に関して何を望んでいるか)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1280" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-21" value="target_income (目標年収)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1190" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-22" value="think_job_relationship（人についての教育、投資についてどう考えているか？）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1130" width="525" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-23" value="want_job_time (望む労働時間)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1100" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-24" value="can_offer_personality｛自分は何を提供できるか？　（性格）｝" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1460" width="385" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-25" value="can_offer_job｛自分は何を提供できるか？　（仕事）｝" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1160" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-26" value="past_failures（過去の失敗は何か？）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1340" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-27" value="how_did_life（どういう人生を歩んできたか？）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1310" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-29" value="basic_experience（経験値としてのポイントは何で、そこからどう自分が成り立っているのか？）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1370" width="535" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-30" value="intersted_by_given｛何をされると心を動かされるのか（お金以外）｝" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1520" width="395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Or4HT7EVB8tR8-bXrAOf-31" value="what_require（どう生きたいか、結果的に取得できるものは何を求めているのか？）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1400" width="495" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uecoBeKu7yb4rYGNF0cp-0" value="like_other_job（仕事以外に何が好きか？）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1250" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lfDMHZHG1GKPj5lQo7q--0" value="my_personality (自分はどういう性格であり、どういう人が好きか？ " style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ryH4xJipQ9elpwYcsFLE-1">
+          <mxGeometry x="55" y="1430" width="385" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="トップページ" id="dAECKXJ_1l6Po5wGfhNw">
-    <mxGraphModel dx="1199" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RQgy__5uqSNTRbrQOknd-0" />
         <mxCell id="RQgy__5uqSNTRbrQOknd-1" parent="RQgy__5uqSNTRbrQOknd-0" />
@@ -1186,7 +1285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="about" id="5kefmNrJ-ylv29CnsA1_">
-    <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="v4-n5BpWdxv1OtClKgoX-0" />
         <mxCell id="v4-n5BpWdxv1OtClKgoX-1" parent="v4-n5BpWdxv1OtClKgoX-0" />
@@ -1224,7 +1323,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="マイページ" id="SB7pXkXH3wm0TizjC8D6">
-    <mxGraphModel dx="962" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-yiSFhwo-oiVUU6xGM2z-0" />
         <mxCell id="-yiSFhwo-oiVUU6xGM2z-1" parent="-yiSFhwo-oiVUU6xGM2z-0" />
@@ -1311,7 +1410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="会員情報編集" id="lZ2nEylGe8qd7neNxmPi">
-    <mxGraphModel dx="1946" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1891" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="UOKUtoG_CfKItHvb1-k9-0" />
         <mxCell id="UOKUtoG_CfKItHvb1-k9-1" parent="UOKUtoG_CfKItHvb1-k9-0" />
@@ -1460,7 +1559,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="user一覧" id="ObGb5I73qoLmJvRnMFQE">
-    <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FGykMrkD2bBTYT1LHEq3-0" />
         <mxCell id="FGykMrkD2bBTYT1LHEq3-1" parent="FGykMrkD2bBTYT1LHEq3-0" />
@@ -1519,7 +1618,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="つぶやき一覧" id="QrfpoNVH6KvCPcGDXu1L">
-    <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="T5lNvFuoaJIZo00fQ-yj-0" />
         <mxCell id="T5lNvFuoaJIZo00fQ-yj-1" parent="T5lNvFuoaJIZo00fQ-yj-0" />
